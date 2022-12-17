@@ -1,4 +1,3 @@
-# opportunity
 ## Due to changes in Discord message intent policy, this bot is no longer functional.
 
 Opportunity was a verified mars-themed bot in over 1500 servers with tens of thousands of users!
