@@ -1,0 +1,42 @@
+{
+  "Bassoradio": {
+    "link": "https://stream.bauermedia.fi/basso/bassoradio_64.aac",
+    "description": ":flag_fi: Nice bass :)"
+  },
+  "Bible Broadcasting Network": {
+    "link": "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f",
+    "description": ":flag_us: :cross:"
+  },
+  "EWTN Catholic Radio": {
+    "link": "http://patmos.cdnstream.com:9677/stream",
+    "description": ":flag_us: A catholic radio station located in Irondale, AL!"
+  },
+  "Hit Mix": {
+    "link": "https://digitacdn.akamaized.net/hls/live/629243/hitmix/master-128000.m3u8",
+    "description": ":flag_fi: <a:catJAM:892023520220049449>"
+  },
+  "Järviradio": {
+    "link": "http://radio2.6net.fi:8000/jarviradio2",
+    "description": ":flag_fi: An old-school radio channel for people with a terrible music taste."
+  },
+  "Radio Rock": {
+    "link": "https://digitacdn.akamaized.net/hls/live/629243/radiorock/master.m3u8",
+    "description": ":flag_fi: Nice music in general!"
+  },
+  "Radio Ålesund": {
+    "link": "http://stream.jaerradiogruppen.no:8008/",
+    "description": ":flag_no: A small radio station playing generic pop, located in Ålesund, Norway!"
+  },
+  "Relevant Radio": {
+    "link": "http://relevantradio-ice.streamguys.us/RRBarix2",
+    "description": ":flag_us: It's relevant!"
+  },
+  "Retro FM": {
+    "link": "http://79.111.14.76:9063/;",
+    "description": ":flag_ru: This almost broke my headphones when I first found it."
+  },
+  "YleX": {
+    "link": "http://yleuni-f.akamaihd.net/i/yleliveradiohd_2@113879/master.m3u8",
+    "description": ":flag_fi: <a:dancedude:892024143862698054>"
+  }
+}
